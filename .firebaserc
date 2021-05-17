@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "x-learner"
+  },
+  "targets": {
+    "x-learner": {
+      "hosting": {
+        "x-learner": [
+          "x-learner"
+        ]
+      }
+    }
+  }
+}

@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+*
+{
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+body
+{
+  background: #D9DEEC;
+}
+
+.btn
+{
+  margin: 7px 0;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+.btn-primary
+{
+  background-color: #2b45ff;
+  color: white;
+}
+
+.btn-secondary
+{
+  background-color: #f9f9f9;
+  color: #010101;
+  float: right;
+}
